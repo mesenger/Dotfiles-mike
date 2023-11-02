@@ -1,2 +1,6 @@
+" git clone https://github.com/vim-airline/vim-airline ~/.vim/pack/dist/start/vim-airline
+
+
+
 autocmd FileType yaml setlocal et ts=2 ai sw=2 nu sts=0
 set cursorline
